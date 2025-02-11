@@ -1,5 +1,7 @@
-# SimplePlayer_m3u_m3u8_GUI-
+# SimplePlayer_m3u_m3u8_GUI
+
 Simple Player *M3u _ *M3u8 by Gunout
+
 1 . Python:
 Assurez-vous d'avoir Python installé sur votre machine. 
 La version recommandée est Python 3.6 < ou supérieure
