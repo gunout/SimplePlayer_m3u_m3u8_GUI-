@@ -8,12 +8,15 @@ La version recommandée est Python 3.6 < ou supérieure
 
 2 . Bibliothèques Python:
 Vous aurez besoin d'installer les bibliothèques suivantes :
-  tkinter: Généralement inclus avec Python, mais assurez-vous qu'il est disponible.
-  python-vlc: Pour interagir avec le lecteur VLC.
+  tkinter 
+Généralement inclus avec Python, mais assurez-vous qu'il est disponible.
+  python-vlc 
+Pour interagir avec le lecteur VLC.
   tkinterdnd2: Pour permettre le glisser-déposer de fichiers.
   
 3 . Installation des bibliothèques
 
+    pip install tkinter
     pip install python-vlc
     pip install tkinterdnd2
 
