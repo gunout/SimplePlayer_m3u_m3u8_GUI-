@@ -27,8 +27,13 @@ Pour interagir avec le lecteur VLC.
     pip install tkinterdnd2
 
 4 . VLC Media Player
-VLC Media Player:
-Vous devez avoir VLC Media Player installé sur votre système, car python-vlc est une interface pour interagir avec VLC. Téléchargez-le depuis le site officiel :
+
+Vous devez avoir VLC Media Player installé sur votre système, 
+
+car python-vlc est une interface pour interagir avec VLC. 
+
+Téléchargez-le depuis le site officiel :
+
 VLC Media Player
 
 5 . Une fois que toutes les dépendances sont installées, vous pouvez exécuter le script en le sauvegardant dans un fichier avec l'extension .py, en utilisant la commande :
