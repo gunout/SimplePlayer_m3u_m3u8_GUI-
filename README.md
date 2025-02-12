@@ -37,7 +37,7 @@ VLC Media Player
 
 5 . Une fois que toutes les dépendances sont installées, vous pouvez exécuter le script en le sauvegardant dans un fichier avec l'extension .py, en utilisant la commande :
 
-    python SimplePlayer.py
-
+    chmod +x SimplePlayer.py
+    python3 SimplePlayer.py
 
 ps: Tu as juste a glisser ton fichier.m3u ou .m3u8 dans l'uppercase du programme "Gui" . by Gunout 2025
