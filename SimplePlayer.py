@@ -8,8 +8,8 @@ class M3UPlayer:
         self.master = master
         self.master.title("Lecteur M3U / M3U8")
 
-        # Créer un contrôleur VLC
-        self.instance = vlc.Instance()
+        # Créer une instance VLC avec le support de PulseAudio
+        self.instance = vlc.Instance('--aout=pulse')  # Utiliser PulseAudio
         self.player = self.instance.media_player_new()
 
         # Cadre pour le lecteur
