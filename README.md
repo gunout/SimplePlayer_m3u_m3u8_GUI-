@@ -41,3 +41,4 @@ VLC Media Player
     python SimplePlayer.py
 
 
+ps: Tu as juste a glisser ton fichier.m3u ou .m3u8 dans l'uppercase du programme "Gui" . by Gunout 2025
