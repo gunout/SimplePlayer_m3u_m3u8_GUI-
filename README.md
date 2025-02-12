@@ -22,9 +22,8 @@ Pour interagir avec le lecteur VLC.
   
 3 . Installation des bibliothèques
 
-    pip install tkinter
-    pip install python-vlc
-    pip install tkinterdnd2
+    pip install -r requirements.txt
+
 
 4 . VLC Media Player
 
